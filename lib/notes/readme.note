@@ -1,0 +1,12 @@
+Steps
+
+1.Designed the Ui
+2.connectd the api (with http dependency)
+3.integrated the api data
+4.methods writed in controller HomeScreen==HomeScreenController MarkScreen==MarkScreenController
+5.all widgets are stateless
+dependencies i  used 
+1.get 
+2.http 
+3.google-fonts 
+4.percent_indicator

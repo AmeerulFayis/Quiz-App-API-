@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What is the capital of California?",
+        "answers": [
+            "Sacramento",
+            "San Francisco",
+            "Los Angeles",
+            "San Diego"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the capital of Texas?",
+        "answers": [
+            "Houston",
+            "Dallas",
+            "Austin",
+            "San Antonio"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the capital of New York?",
+        "answers": [
+            "New York City",
+            "Buffalo",
+            "Albany",
+            "Syracuse"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the capital of Florida?",
+        "answers": [
+            "Miami",
+            "Tampa",
+            "Orlando",
+            "Tallahassee"
+        ],
+        "correctAnswer": 3
+    },
+    {
+        "question": "What is the capital of Illinois?",
+        "answers": [
+            "Chicago",
+            "Springfield",
+            "Rockford",
+            "Peoria"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the capital of Pennsylvania?",
+        "answers": [
+            "Philadelphia",
+            "Pittsburgh",
+            "Harrisburg",
+            "Allentown"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the capital of Ohio?",
+        "answers": [
+            "Cleveland",
+            "Columbus",
+            "Cincinnati",
+            "Dayton"
+        ],
+        "correctAnswer": 1
+    },
+    {
+        "question": "What is the capital of Michigan?",
+        "answers": [
+            "Detroit",
+            "Grand Rapids",
+            "Lansing",
+            "Ann Arbor"
+        ],
+        "correctAnswer": 2
+    },
+    {
+        "question": "What is the capital of Georgia?",
+        "answers": [
+            "Atlanta",
+            "Savannah",
+            "Augusta",
+            "Athens"
+        ],
+        "correctAnswer": 0
+    },
+    {
+        "question": "What is the capital of North Carolina?",
+        "answers": [
+            "Charlotte",
+            "Raleigh",
+            "Greensboro",
+            "Winston-Salem"
+        ],
+        "correctAnswer": 1
+    }
+]
